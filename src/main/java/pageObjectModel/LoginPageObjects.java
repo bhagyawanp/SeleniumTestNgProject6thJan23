@@ -20,6 +20,9 @@ public class LoginPageObjects extends baseClass{
 	private By tryForFree=By.xpath("//a[@id='signup_link']");
 	
 	private By errorText=By.xpath("//div[@id='error']");
+	
+	
+	//This is one comment adding for git demo purpose
 
 
 	public LoginPageObjects(WebDriver driver2) {
